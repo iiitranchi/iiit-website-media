@@ -1,2 +1,3 @@
 # iiit-website-media
-files for IIIT Ranchi website
+
+This repository hosts files for IIIT Ranchi website
